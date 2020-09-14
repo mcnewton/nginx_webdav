@@ -40,3 +40,9 @@ On Debian systems do
     apt-get install nginx-full \
                     libnginx-mod-http-dav-ext \
                     libnginx-mod-http-headers-more-filter
+
+Clients
+-------
+
+There are instructions for different clients in
+[connect.md](connect.md).
