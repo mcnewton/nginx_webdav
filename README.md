@@ -13,7 +13,7 @@ the same WebDav server.
 
 The config here at least allows WebDav operation from Linux
 (Ubuntu tested), Windows and MacOS. It also works with apps on
-Android and Apple IOS. This makes is rather convenient for
+Android and Apple IOS. This makes it rather convenient for
 transferring files between different people on different systems.
 
 There's no file access permission support here at the moment, so
